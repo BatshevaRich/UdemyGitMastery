@@ -1,2 +1,4 @@
 This is file2.txt
+This line added in local repo
+
 
